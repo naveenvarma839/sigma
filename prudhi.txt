@@ -4,4 +4,8 @@ martilly
 varma
 gt
 asdfghjksdfcvbnm
+<<<<<<< HEAD
 asdfghjkl
+=======
+asdfgtgbx cjklk
+>>>>>>> 70e0257 (merged)
