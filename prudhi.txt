@@ -13,6 +13,13 @@ sai
 
 
 ok
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 88ee4d23eab2790aa899650eaa99418651206095
+
+are
+>>>>>>> b3aeb9bb6fc2d09e68ae2677a9b3baa8fe3f0e52
 
 you
 see
