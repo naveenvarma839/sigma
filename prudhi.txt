@@ -5,9 +5,11 @@ varma
 gt
 asdfghjksdfcvbnm
 asdfghjkl
-<<<<<<< HEAD
 asdfgtgbx cjklk
 hi 
-=======
 sai
->>>>>>> 88ee4d23eab2790aa899650eaa99418651206095
+
+
+
+
+ok
