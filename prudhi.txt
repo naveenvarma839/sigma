@@ -8,8 +8,16 @@ asdfghjkl
 asdfgtgbx cjklk
 hi 
 sai
+<<<<<<< HEAD
 
 
 
 
 ok
+=======
+>>>>>>> 88ee4d23eab2790aa899650eaa99418651206095
+
+
+
+see
+>>>>>>> 79ed932c5dec403922c82391efce307fea23784b
